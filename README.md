@@ -1,2 +1,2 @@
 # Taxi-Mobility
-Segmentation of taxis ane prediction of the next taxi demand
+Segmentation of taxis and prediction of the next taxi demand
