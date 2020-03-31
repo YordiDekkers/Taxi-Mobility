@@ -1,2 +1,3 @@
 # Taxi-Mobility
-Data Science Assessment for Philip Morris
+Segmentation of taxis
+Prediction of the next taxi demand
